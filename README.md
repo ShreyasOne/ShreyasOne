@@ -1,4 +1,4 @@
-<img src="https://github.com/ShreyasOne/ShreyasOne/blob/main/3.png" alt="Hello world">
+<img src="https://github.com/ShreyasOne/ShreyasOne/blob/main/1.png" alt="Hello world">
 
 ## About me 😊
 
